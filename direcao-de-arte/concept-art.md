@@ -6,7 +6,7 @@ description: 'Arte conceitual organizada por assuntos:'
 
 {% tabs %}
 {% tab title="Cenários & Props" %}
-<figure><img src="../.gitbook/assets/Concepts Personagens e NPCS 16.3 (1).jpg" alt=""><figcaption><p>Direção de Arte e Ancião da Natureza</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Concepts Personagens e NPCS 16.3.jpg" alt=""><figcaption><p>Direção de Arte e Ancião da Natureza</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/CenarioTeste2.png" alt=""><figcaption><p>Concept de uma das Aldeias da Natureza - By Vinícius Alves</p></figcaption></figure>
 
@@ -32,7 +32,8 @@ description: 'Arte conceitual organizada por assuntos:'
 {% endtab %}
 
 {% tab title="Personagem & NPCs" %}
-<figure><img src="../.gitbook/assets/Alvez 1.png" alt=""><figcaption><p>Art Finalization - By Vinícius Alves</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Alvez 1 (1).png" alt=""><figcaption><p>Art Finalization  - By Vinícius Alves</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Concepts Personagens e NPCS 1.jpg" alt=""><figcaption></figcaption></figure>
 

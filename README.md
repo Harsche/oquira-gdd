@@ -1,12 +1,13 @@
 ---
 description: Página Inicial
-cover: .gitbook/assets/Oquirá - Título Capa (5).jpg
+cover: .gitbook/assets/Oquirá - Título Capa (7).jpg
 coverY: 0
 ---
 
 # 🌳 HOME
 
-<figure><img src=".gitbook/assets/Capa Provisória.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Capa Provisória.jpg" alt=""><figcaption><p>Capa Provisória</p></figcaption></figure>
 
 OQUIRÁ: Em busca do Equilíbrio é jogo de Plataforma 2D do gênero MetroidVania, porém com foco na mobilidade e defesa, incluindo combate indireto. Possui uma mistura elementos de jogos do tipo Souls Like, Bullet Hell & Adventure 1979.\
 \
