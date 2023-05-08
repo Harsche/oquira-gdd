@@ -20,15 +20,15 @@ _“Cabe ao escolhido, libertar a morte de seu controle e trazer o equilíbrio d
 
 Consegue a primeira Energia (Terra / Marrom), introdução às mecânicas básicas e desafios do jogo. Cenário focado na vegetação Marrom e Verde.
 
-### Roteiro da Cutscene de Abertura
+#### Roteiro da Cutscene de Abertura
 
-#### OQUIRÁ: Em busca do Equilíbrio
+**OQUIRÁ: Em busca do Equilíbrio**
 
 _Cutscenes feitas com parallax, divisão de camadas, simplicidade, exemplo da abertura de The Withcer 3._
 
-#### Fade In
+**Fade In**
 
-#### Narração Feita por um Xamã ou Vidente / Abertura do jogo
+**Narração Feita por um Xamã ou Vidente / Abertura do jogo**
 
 **Personagem narrando, contando uma história ao redor de uma fogueira, fazendo uma sombra atrás e criando contraste (inspiração de irmãos ursos). Enquadramento plano médio com transição para Fechado, no rosto de quem conta a história, aumentando a intimidade, como se contasse história para uma criança, tirando o zoom e foco dele indo para o céu, após o primeiro parágrafo abaixo.**
 
@@ -54,7 +54,7 @@ Quando mirar para o céu, utilize estrelas e constelações para exemplificar se
 
 * “Porém nem sempre as coisas acontecem como esperamos… seria o escolhido capaz de trazer o equilíbrio de volta?”
 
-#### Floresta Sombria / Anoitecer
+**Floresta Sombria / Anoitecer**
 
 **Enquadramento Plano Aberto com transição para um plano médio, O personagem em um dos pontos da regra dos terços do lado direito inferior, virado indo para a esquerda.**
 
@@ -77,7 +77,7 @@ Cortando para uma cena imaginando em sua mente uma versão heróica, guerreira f
 
 Referência 00:49 -> [The Reward](https://www.youtube.com/watch?v=kkAYze6ae18)
 
-#### Floresta Sombria / Anoitecer
+**Floresta Sombria / Anoitecer**
 
 **Enquadramento Plano Fechado, foco no rosto do personagem, ainda virado, indo para o lado esquerdo.**
 
@@ -98,7 +98,7 @@ Então começa a ficar bem preocupado, com dúvida de onde realmente está. Por�
 * Brincadeira hahahah adoro me perder…
 * Éah… adoooro…
 
-#### Floresta Sombria / Noite
+**Floresta Sombria / Noite**
 
 **Enquadramento Plano Médio, personagem em um dos pontos da regra dos terços do lado direito inferior, virado ainda indo para a esquerda.**
 
@@ -110,7 +110,7 @@ Eis que aparece uma fraca luz vindo no horizonte, sendo de noite só poderia ser
 * Ufa, vila vilaminha, quase me assustou.
 * Quaaaase.
 
-#### Floresta Sombria / Noite
+**Floresta Sombria / Noite**
 
 **Começa com um enquadramento de Plano Médio com transição para Fechado conforme andar para a Luz (pouco antes de ouvir o barulho), personagem em um dos pontos da regra dos terços do lado direito inferior, indo para a esquerda.**
 
@@ -133,7 +133,7 @@ Porém o inimigo é mais rápido acaba o atingindo e jogando para longe caindo, 
 
 Nesse momento, pouco antes de ser atingido aparece a HUD da vida (somente a sua cabeça com 1 pétala e seus olhos pretos), ao ser atingido sua pétala some, indicando que Oquirá morreu.
 
-#### Aldeia Ancestral / Região Verde / Amanhecer
+**Aldeia Ancestral / Região Verde / Amanhecer**
 
 **Começa com um enquadramento de Plano Médio, foco no Futuro Mentor. Enquadrando o personagem em um dos pontos da regra dos terços do lado direito inferior, virado olhando para a esquerda.**
 
@@ -146,7 +146,7 @@ O Mentor olha para o horizonte e sente algo no ar, ouve sussurros da floresta e 
 * Parece que estão empolgados?
 * Interessante…
 
-#### Aldeia Ancestral / Região Verde / Amanhecer
+**Aldeia Ancestral / Região Verde / Amanhecer**
 
 **Começa com um enquadramento de Plano Médio, foco no Futuro Mentor, transicionando em sua fala para um plano fechado. Enquadrando o personagem em um dos pontos da regra dos terços do lado direito inferior, virado olhando para a esquerda.**
 
@@ -159,7 +159,7 @@ Se aproximando dele percebe uma Luz Branca chegando próximo ao Ancião, o que o
 * Coisa rara… o que interromperia sua meditação, transe profundo? Deve ter algo haver com essa Luz.
 * Parece estar sussurrando a ele… 5 Chegando próximo ao Ancião repara a Luz Indo embora e o ancião rindo sutilmente.
 
-#### Aldeia Ancestral / Região Verde / Amanhecer Raiar do Sol
+**Aldeia Ancestral / Região Verde / Amanhecer Raiar do Sol**
 
 **Começa com um enquadramento de Plano Médio com contra Plongée no Ancião (o deixando maior ainda), foco no Ancião. Enquadrando o Mentor em um dos pontos da regra dos terços do lado esquerdo inferior, virado olhando para a direita. Já o Ancião está enquadrado nos pontos do lado direito, com seu rosto no ponto superior, olhando para a esquerda (a direção do personagem.**
 
@@ -184,11 +184,11 @@ Eis que o Ancião volta a meditar profundamente.
 * Brincadeira, fazer o que.
 * Vamos até O Cajado… já era ora.
 
-#### Fade Out
+**Fade Out**
 
-#### Fade In
+**Fade In**
 
-#### Floresta Sombria / Amanhecer
+**Floresta Sombria / Amanhecer**
 
 **Começa com um enquadramento de Plano Médio com transição para Fechado (dando zoom no rosto do personagem caído ao chão) / personagem está em um dos pontos da regra dos terços do lado esquerdo inferior, voltado para o lado direito.**
 

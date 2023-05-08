@@ -18,7 +18,7 @@ Avançando, o personagem então encontrará eventualmente O Cajado (apenas o esc
 
 Continuando a progressão, as próximas mecânicas a se desbloquear são o Dash e Wall Jump, abrindo caminhos que antes eram inacessível ao jogador.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Início do jogo, após o término da primeira cutscene</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Início do jogo, após o término da primeira cutscene</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 

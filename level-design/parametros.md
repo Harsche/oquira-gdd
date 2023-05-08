@@ -10,7 +10,7 @@ description: >-
 
 ### Movimentação
 
-<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Parâmetros: Altura do Personagem, Altura e Distancia do Pulo.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Parâmetros: Altura do Personagem, Altura e Distancia do Pulo.</p></figcaption></figure>
 
 ### Contra Ataque - Parry
 

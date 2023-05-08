@@ -1,12 +1,12 @@
 ---
 description: Página Inicial
-cover: .gitbook/assets/Oquirá - Título Capa (5).jpg
+cover: .gitbook/assets/Oquirá - Título Capa (7).jpg
 coverY: 0
 ---
 
 # 🌳 HOME
 
-<figure><img src=".gitbook/assets/Capa Provisória (1).jpg" alt=""><figcaption><p>Capa Provisória</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Capa Provisória.jpg" alt=""><figcaption><p>Capa Provisória</p></figcaption></figure>
 
 
 
