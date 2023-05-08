@@ -15,10 +15,24 @@ description: 'Arte conceitual organizada por assuntos:'
 <figure><img src="../.gitbook/assets/Mushrooms props.png" alt=""><figcaption><p>Mushrooms Props - By Vinícius Alves</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Bushes Props.png" alt=""><figcaption><p>Bushes Props - By Vinícius Alves</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Concept Props &#x26; Armadilhas 1.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Concept Props &#x26; Armadilhas 2.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Concept Props &#x26; Armadilhas 3.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Concept Props &#x26; Armadilhas 4.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Concept Props &#x26; Armadilhas 5.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Concept Props &#x26; Armadilhas 6.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Concept Props &#x26; Armadilhas 7.jpg" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Personagem & NPCs" %}
-<figure><img src="../.gitbook/assets/Alvez 1.png" alt=""><figcaption><p>Art Finalization  - By Vinícius Alves</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Alvez 1.png" alt=""><figcaption><p>Art Finalization - By Vinícius Alves</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Concepts Personagens e NPCS 1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -56,17 +70,19 @@ description: 'Arte conceitual organizada por assuntos:'
 {% endtab %}
 
 {% tab title="Inimigos" %}
-<figure><img src="../.gitbook/assets/Concepts Inimigos 1 (1).jpg" alt=""><figcaption><p>Inimigos do elemento Natureza e Terra, exploração do inimigo Golem de Pedra</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Concepts Inimigos 1.jpg" alt=""><figcaption><p>Inimigos do elemento Natureza e Terra, exploração do inimigo Golem de Pedra</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Concepts Inimigos 2.jpg" alt=""><figcaption><p>Exploração de inimigos do elemento Natureza</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Concepts Inimigos 3.jpg" alt=""><figcaption><p>Exploração de inimigos do elemento Natureza</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Concepts Inimigos 3 (1).jpg" alt=""><figcaption><p>Exploração de inimigos do elemento Natureza</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Concepts Inimigos 4.jpg" alt=""><figcaption><p>Exploração de inimigos do elemento Natureza e Terra</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Manu 2.png" alt=""><figcaption><p>Exploração de inimigos do elemento Natureza - By Manuella Garcia</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Manu 1.png" alt=""><figcaption><p>Exploração de inimigos do elemento Natureza - By Manuella Garcia</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Concepts Inimigos 5.jpg" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Itens & Equipamentos" %}
@@ -77,6 +93,3 @@ description: 'Arte conceitual organizada por assuntos:'
 <figure><img src="../.gitbook/assets/Concepts Itens - Sketch 3.jpg" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
-
