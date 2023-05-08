@@ -47,7 +47,7 @@ description: >-
 
 ## Parry - Contra Ataque
 
-* Desbloqueado após obter o Cajado;&#x20;
+* Desbloqueado após obter o Cajado;
 * **Possui Cooldown -** Utilizado Para desviar tanto inimigos quanto seus ataques, projéteis ou armadilhas, espinhos;
 * Ao dar Parry no ataque de um inimigo, o jogador repele esse ataque na direção que quiser, podendo revidar o ataque para inimigos de mesmo elemento do ataque revidado. É possível também usar esse Parry para baixo, para gerar um impulso maior que um pulo;
 * Sendo jovem, o protagonista não possui ainda a força física necessária para destruir objetos, muito menos machucar os inimigos, dependendo de sua energia e seu cajado para redirecionar os golpes pré-existentes, para assim conseguir interagir com o cenário e atordoar os inimigos.
@@ -71,51 +71,36 @@ Elementos ligados às cores - Água / Azul, Fogo / Vermelho, Marrom / Terra, Ver
 
 ## Absorção Elemental
 
-Habilidade da Máscara - Desbloqueada após obter o Cajado, pois ao dar um Parry, o jogador absorve na máscara o elemento que acabou de redirecionar, essa mecânica será usada nos cenários de formas diferentes, de acordo com a energia absorvida:&#x20;
+Habilidade da Máscara - Desbloqueada após obter o Cajado, pois ao dar um Parry, o jogador absorve na máscara o elemento que acabou de redirecionar, essa mecânica será usada nos cenários de formas diferentes, de acordo com a energia absorvida:
 
-
-
-**Absorveu Natureza (Verde):**&#x20;
+**Absorveu Natureza (Verde):**
 
 * Movimentação - Gera um cogumelo para pular e alcançar locais que antes não conseguiria, ou uma Vinha para escalar como uma escada;
 
-**Absorveu Água (Azul Marinho):**&#x20;
+**Absorveu Água (Azul Marinho):**
 
-* Abre Caminho - Apaga áreas especificas que estão pegando fogo, para o jogador acessar um lugar secreto ou abrir atalhos, no caso backtracking;&#x20;
+* Abre Caminho - Apaga áreas especificas que estão pegando fogo, para o jogador acessar um lugar secreto ou abrir atalhos, no caso backtracking;
 
-**Absorveu Terra (Marrom):**&#x20;
+**Absorveu Terra (Marrom):**
 
 * Movimentação - Gera Estruturas para o jogador pular e acessar novas áreas que não conseguiria, ou cria buracos no chão levando a novos locais, podendo ser pequenas áreas com baús por exemplo;
 
-**Absorveu Ar (Turquesa):**&#x20;
+**Absorveu Ar (Turquesa):**
 
-* Movimentação - Gera Nuvens ou redemoinhos para o jogador usar de caminho;&#x20;
+* Movimentação - Gera Nuvens ou redemoinhos para o jogador usar de caminho;
 
-**Absorveu Fogo (Vermelho):**&#x20;
+**Absorveu Fogo (Vermelho):**
 
-* Abre Caminho - Queima áreas especificas para o jogador acessar um lugar secreto ou abrir atalhos / backtracking;&#x20;
-
-
+* Abre Caminho - Queima áreas especificas para o jogador acessar um lugar secreto ou abrir atalhos / backtracking;
 
 Após o jogador absorver um elemento depois de um Parry, ele não poderá tomar dano de inimigos ou dar Parry para um inimigo de um outro elemento, se não perderá o elemento atualmente armazenado. Por exemplo:
 
 Por exemplo, caso o jogador absorva o elemento de Terra após um Parry, pode procurar por um local no mapa que possa utilizar, interagir com esse elemento para progredir, porém para isso o jogador deverá evitar absorver sem querer outros elementos, não podendo levar dano ou dar Parry contra inimigos dos outros elementos, se não o elemento será perdido ou substituído.
 
-
-
 ## Interações
-
-
 
 ### **Ponto de save - Checkpoint**
 
 * Durante o jogo o personagem encontrará pontos de salvamento, normalmente localizadas em regiões seguras. Podendo retornar ao ponto como um Checkpoint após morrer, porém com 1/3 da vida inteira e sem suas "moedas".
-
-
-
-*   ### Viagem rápida
-
-
-
-    * Pode ser realizada para alguns pontos de salvamento especiais, essas são indicadas. Todo local de Checkpoint novo desbloqueado desse tipo é um novo destino de viagem rápida, tendo apenas que gastar uma pequena quantidade de "moedas".
-
+* #### Viagem rápida
+  * Pode ser realizada para alguns pontos de salvamento especiais, essas são indicadas. Todo local de Checkpoint novo desbloqueado desse tipo é um novo destino de viagem rápida, tendo apenas que gastar uma pequena quantidade de "moedas".
