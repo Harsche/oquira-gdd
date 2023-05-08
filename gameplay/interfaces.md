@@ -2,9 +2,9 @@
 
 ## Wireframe
 
-<figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption><p>Menu Inicial</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (4).jpg" alt=""><figcaption><p>Menu Inicial</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption><p>Configurações no Menu Principal e In game</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (3).jpg" alt=""><figcaption><p>Configurações no Menu Principal e In game</p></figcaption></figure>
 
 <div>
 
@@ -24,9 +24,9 @@
 
 </div>
 
-<figure><img src="../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (3).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/4.jpg" alt=""><figcaption><p>Wireframe in Game - Vida, Energia, Escudo e Menu (ESC)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (3).jpg" alt=""><figcaption><p>Wireframe in Game - Vida, Energia, Escudo e Menu (ESC)</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/5 (1).jpg" alt=""><figcaption><p>Wireframe in Game - </p></figcaption></figure>
 
@@ -42,17 +42,17 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/2 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/3 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../.gitbook/assets/4 (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (2).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -108,7 +108,7 @@
 
 ## Cores e Tipografias
 
-<figure><img src="../.gitbook/assets/Teste de cores (2).jpg" alt=""><figcaption><p>Teste de valores das cores das Energias</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Teste de cores (1).jpg" alt=""><figcaption><p>Teste de valores das cores das Energias</p></figcaption></figure>
 
 <div>
 

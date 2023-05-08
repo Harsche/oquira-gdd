@@ -4,11 +4,9 @@
 
 ## Proposta
 
-A narrativa do jogo vai ser contada pelo cenário, descrição dos itens, cartas colecionáveis e cutscenes.&#x20;
+A narrativa do jogo vai ser contada pelo cenário, descrição dos itens, cartas colecionáveis e cutscenes.
 
 O não vai possuir diálogos ou narrativa com voz, apenas grunhidos como Hollow Knight, vai ser utilizado cutscenes tipo teatro de papel, papelão, inspirado nas do Battleblock Theater e com alguma forma de narrativa, que nem no começo de Irmão Urso, o jogo Tchia ou como se fosse uma história com identidade de um livro de contos. Com gameplay com gráfico e animações simplificadas tipo Hollow Knight.
-
-
 
 ## Moodboard
 
@@ -22,15 +20,11 @@ O não vai possuir diálogos ou narrativa com voz, apenas grunhidos como Hollow 
 
 <figure><img src="../.gitbook/assets/MoodBoard - Pág. 5.jpg" alt=""><figcaption><p>Flora nativa do Brasil e algumas espécies de fungos</p></figcaption></figure>
 
-
-
 ## Representação das Cores - Progressão e Ambiente
 
 _Descrito melhor na sessão de Narrativa - WorldBuilding e Storytelling._
 
-
-
-<figure><img src="../.gitbook/assets/Teste de cores.jpg" alt=""><figcaption><p>Cor dos elementos abaixo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Teste de cores (2).jpg" alt=""><figcaption><p>Cor dos elementos abaixo</p></figcaption></figure>
 
 <details>
 
@@ -68,7 +62,7 @@ Terra representando a natureza, Floresta Densa, Próximo a Fontes de água. Inse
 
 Vento, regiões altas e montanhosas. Possui sinergia com o com o Vermelho, o elemento do Fogo.
 
-**Significado da Cor -**A cor amarela desperta frescor, traz leveza, descontração, otimismo. Simboliza criatividade, juventude, sabedoria, conhecimento, relaxamento, alegria, felicidade, idealismo, imaginação, esperança, claridade, verão e perigo.
+\*\*Significado da Cor -\*\*A cor amarela desperta frescor, traz leveza, descontração, otimismo. Simboliza criatividade, juventude, sabedoria, conhecimento, relaxamento, alegria, felicidade, idealismo, imaginação, esperança, claridade, verão e perigo.
 
 </details>
 
@@ -112,8 +106,6 @@ Representando a entidade da Morte, o que o artificial solta, piche, óleo, resul
 
 </details>
 
-
-
 ## Color script
 
 <figure><img src="../.gitbook/assets/mnapeamento.jpg" alt=""><figcaption></figcaption></figure>
@@ -121,4 +113,3 @@ Representando a entidade da Morte, o que o artificial solta, piche, óleo, resul
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus mollis orci, ut ornare nunc sollicitudin sed. Morbi nec suscipit nunc. Nullam pulvinar vestibulum quam, eget porta justo euismod quis. Nullam faucibus accumsan dignissim. Sed eu arcu eget leo ultricies consequat. Etiam scelerisque viverra ex in blandit.
 
 Curabitur nec tincidunt leo. Maecenas ut pharetra leo. Vestibulum fermentum faucibus malesuada. Proin laoreet suscipit facilisis. Praesent aliquam venenatis arcu quis pretium. Nullam vitae tincidunt lectus, in dignissim nisi. Phasellus feugiat volutpat nisl. Nullam molestie consequat porttitor. Etiam dolor nisi, suscipit ac rhoncus sit amet, lobortis ac arcu. Fusce at magna mollis, iaculis velit malesuada, viverra erat. Curabitur tempor ex vel magna vehicula laoreet. Integer rhoncus tincidunt sem, quis pretium urna egestas nec.
-
