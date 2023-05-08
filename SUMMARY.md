@@ -2,7 +2,7 @@
 
 * [🌳 HOME](README.md)
 * [Sobre o Estúdio](sobre-o-estudio.md)
-* [BILA](bila.md)
+* [BILA 2](bila.md)
 
 ## 👾 Introdução
 

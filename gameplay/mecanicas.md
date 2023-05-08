@@ -37,11 +37,11 @@ description: >-
 
 <div>
 
-<figure><img src="../.gitbook/assets/Shield Color.gif" alt=""><figcaption><p>A cor do escudo pode ser alterada.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Shield Color (1).gif" alt=""><figcaption><p>A cor do escudo pode ser alterada.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Shield.gif" alt=""><figcaption><p>Não é direcional, é uma bolha ao redor do personagem e não devolve ataques.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Shield (1).gif" alt=""><figcaption><p>Não é direcional, é uma bolha ao redor do personagem e não devolve ataques.</p></figcaption></figure>
 
 </div>
 
@@ -65,7 +65,7 @@ Elementos ligados às cores - Água / Azul, Fogo / Vermelho, Marrom / Terra, Ver
 
  
 
-<figure><img src="../.gitbook/assets/Shield Color.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Shield Color (1).gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
