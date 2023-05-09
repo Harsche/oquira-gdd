@@ -2,6 +2,8 @@
 
 <figure><img src="../.gitbook/assets/MenuSemLogo.gif" alt=""><figcaption><p>Idle do personagem principal</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Oquirá.png" alt="" width="375"><figcaption><p>OQUIRÁ</p></figcaption></figure>
+
 ## O(a) Escolhido(a)
 
 Oquirá, o(a) escolhido(a), protagonista do jogo, vindo da aldeia das Flores, do distrito do Broto. Faz parte da tribo da Floresta, seres geralmente pacíficos. O personagem principal é uma criatura inocente e jovem que foi escolhida pelo cajado (pela energia ancestral contida nele), para que consiga trazer o equilíbrio de volta.
