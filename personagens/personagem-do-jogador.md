@@ -2,13 +2,15 @@
 
 <figure><img src="../.gitbook/assets/MenuSemLogo.gif" alt=""><figcaption><p>Idle do personagem principal</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Oquirá.png" alt="" width="375"><figcaption><p>OQUIRÁ</p></figcaption></figure>
+
 ## O(a) Escolhido(a)
 
 Oquirá, o(a) escolhido(a), protagonista do jogo, vindo da aldeia das Flores, do distrito do Broto. Faz parte da tribo da Floresta, seres geralmente pacíficos. O personagem principal é uma criatura inocente e jovem que foi escolhida pelo cajado (pela energia ancestral contida nele), para que consiga trazer o equilíbrio de volta.
 
 A cor branca  representa a vida e é a combinação de todas as cores. Oquirá tendo sua alma pura, por conta de seus ideais e cultura em que cresceu, é voltada ao budismo e preservação respeito a toda forma de vida, assim como a cor branca pode manipular outros elementos sem ser o seu original.
 
-Apenas assim, tendo uma alma pura sem cede por poder que seria capaz de encarnar a fagulha da vida, esperança e ser escolhido pelo Cajado, após isso é possível canalizar sua própria força vital, sua energia e manipular outros elementos sem ser o de Natureza elemento base do personagem (energia verde), para passar por obstáculos e desafios que possa encontrar durante a jornada.
+Apenas assim, tendo uma alma pura sem sede por poder que seria capaz de encarnar a fagulha da vida, esperança e ser escolhido pelo Cajado, após isso é possível canalizar sua própria força vital, sua energia e manipular outros elementos sem ser o de Natureza elemento base do personagem (energia verde), para passar por obstáculos e desafios que possa encontrar durante a jornada.
 
 A cor da energia é representada pelo seu cajado e partículas com símbolos diferentes o que os tornam mais fáceis de identificar, após obtê-lo é possível alterar entre os 5 elementos gerais.
 

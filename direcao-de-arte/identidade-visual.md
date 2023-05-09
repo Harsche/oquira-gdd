@@ -6,7 +6,9 @@
 
 A narrativa do jogo vai ser contada pelo cenário, descrição dos itens, cartas colecionáveis e cutscenes.
 
-O não vai possuir diálogos ou narrativa com voz, apenas grunhidos como Hollow Knight, vai ser utilizado cutscenes tipo teatro de papel, papelão, inspirado nas do Battleblock Theater e com alguma forma de narrativa, que nem no começo de Irmão Urso, o jogo Tchia ou como se fosse uma história com identidade de um livro de contos. Com gameplay com gráfico e animações simplificadas tipo Hollow Knight.
+Não vai possuir diálogos ou narrativa com voz, apenas grunhidos como Hollow Knight, vai ser utilizado cutscenes tipo a de abertura de The Witcher 3, com elementos separados em layers, parallax além de efeitos especiais, partículas entre outros.
+
+Nós optamos por por conta da temática utilizar elementos mais orgânicos, auxiliando a criar uma estética coesa entre todas as áreas da produção do jogo.
 
 ## Moodboard
 
@@ -24,13 +26,15 @@ O não vai possuir diálogos ou narrativa com voz, apenas grunhidos como Hollow 
 
 _Descrito melhor na sessão de Narrativa - WorldBuilding e Storytelling._
 
-<figure><img src="../.gitbook/assets/Teste de cores (2).jpg" alt=""><figcaption><p>Cor dos elementos abaixo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Teste de cores (1) (1).jpg" alt=""><figcaption><p>Cores mãe e representação dos elementos descritos abaixo</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Paleta.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
 <summary><strong>Verde</strong></summary>
 
-Terra representando a natureza, Floresta Densa, Próximo a Fontes de água. Insetos, animais e criaturas relacionadas à região, fungos entre outros. Sinergia com a energia da cor Azul.
+Representando a natureza, Floresta Densa, Próximo a Fontes de água. Insetos, animais e criaturas relacionadas à região, fungos entre outros. Sinergia com a energia da cor Azul.
 
 **Significado da Cor -** Calma, Umidade, Amizade, Saúde, Tranquilidade. Decisões, pensamento abstrato e criativo, respostas afetivas, e capacidade para conexões emocionais e julgamento social, frescor, esperança, amizade, equilíbrio, ecológico, umidade, primavera, natureza, paz, saúde, ideal, abundância, tranquilidade, suavidade, descanso além de tolerância.
 
@@ -62,7 +66,7 @@ Terra representando a natureza, Floresta Densa, Próximo a Fontes de água. Inse
 
 Vento, regiões altas e montanhosas. Possui sinergia com o com o Vermelho, o elemento do Fogo.
 
-\*\*Significado da Cor -\*\*A cor amarela desperta frescor, traz leveza, descontração, otimismo. Simboliza criatividade, juventude, sabedoria, conhecimento, relaxamento, alegria, felicidade, idealismo, imaginação, esperança, claridade, verão e perigo.
+Significado da Cor - A cor amarela desperta frescor, traz leveza, descontração, otimismo. Simboliza criatividade, juventude, sabedoria, conhecimento, relaxamento, alegria, felicidade, idealismo, imaginação, esperança, claridade, verão e perigo.
 
 </details>
 
@@ -70,7 +74,7 @@ Vento, regiões altas e montanhosas. Possui sinergia com o com o Vermelho, o ele
 
 <summary><strong>Vermelho</strong></summary>
 
-Fogo, Regiões, Vulcões, Desertos e ambientes artificiais, tomados por máquinas, destruição e caos. Sinergia com a energia Turquesa.
+Fogo, Regiões, Vulcões, Desertos e ambientes artificiais, tomados por máquinas, destruição e caos. Sinergia com a energia Amarela.
 
 **Significado da Cor -** Energia, Dinamismo, Ação, Emoção e Intensidade. Pecado da carne, paixão, sedução, transgressão, guerra, perigo, fogo, sol, dinamismo, força, energia, revolta, coragem, barbarismo, intensidade, vigor, violência, excitação, ação, agressividade, estímulo a se alimentar (fogo tem que queimar alguma coisa, e as máquinas se alimentam da natureza, fogo, a queima).
 
@@ -80,7 +84,7 @@ Fogo, Regiões, Vulcões, Desertos e ambientes artificiais, tomados por máquina
 
 <summary>Cinza</summary>
 
-Representando o Artificial, Plástico, Metal, Cimento, as Máquinas, o que dilui o preto da morte, tirando sua essência, deixando impuro, não natural.
+Representando o Artificial, Plástico, Metal, Cimento, as Máquinas, o que dilui o preto da morte, tirando sua essência, deixando impuro, não natural além de passar a sensação de algo monótono.
 
 **Significado da Cor -** Neutralidade, pó, chuva, máquinas, tédio, tristeza, decadência, velhice, desânimo, sabedoria, passado, elegância, sutileza.
 
@@ -100,16 +104,8 @@ Representa a entidade da Vida;
 
 <summary><strong>Preto</strong></summary>
 
-Representando a entidade da Morte, o que o artificial solta, piche, óleo, resultado da queima da natureza resultando no preto e cinza, concreto, o que movimenta as Máquinas Autônomas, destruição. Sinergia com o Branco, representação da Vida.
+Representando a entidade da Morte, o que o artificial solta, piche, óleo, resultado da queima da natureza resultando no preto e cinza, concreto, o que movimenta as Máquinas Autônomas, destruição. Sinergia com o Branco.
 
 **Significado da Cor -** Enterro, funeral, noite, coisas obscuras, fim, mal, miséria, temor. Entretanto também está associado a sofisticação e requinte (as máquinas, tecnologia no caso).
 
 </details>
-
-## Color script
-
-<figure><img src="../.gitbook/assets/mnapeamento.jpg" alt=""><figcaption></figcaption></figure>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus mollis orci, ut ornare nunc sollicitudin sed. Morbi nec suscipit nunc. Nullam pulvinar vestibulum quam, eget porta justo euismod quis. Nullam faucibus accumsan dignissim. Sed eu arcu eget leo ultricies consequat. Etiam scelerisque viverra ex in blandit.
-
-Curabitur nec tincidunt leo. Maecenas ut pharetra leo. Vestibulum fermentum faucibus malesuada. Proin laoreet suscipit facilisis. Praesent aliquam venenatis arcu quis pretium. Nullam vitae tincidunt lectus, in dignissim nisi. Phasellus feugiat volutpat nisl. Nullam molestie consequat porttitor. Etiam dolor nisi, suscipit ac rhoncus sit amet, lobortis ac arcu. Fusce at magna mollis, iaculis velit malesuada, viverra erat. Curabitur tempor ex vel magna vehicula laoreet. Integer rhoncus tincidunt sem, quis pretium urna egestas nec.

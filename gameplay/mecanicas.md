@@ -37,11 +37,11 @@ description: >-
 
 <div>
 
-<figure><img src="../.gitbook/assets/Shield Color (1).gif" alt=""><figcaption><p>A cor do escudo pode ser alterada.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Shield Color.gif" alt=""><figcaption><p>A cor do escudo pode ser alterada.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Shield (1).gif" alt=""><figcaption><p>Não é direcional, é uma bolha ao redor do personagem e não devolve ataques.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Shield.gif" alt=""><figcaption><p>Não é direcional, é uma bolha ao redor do personagem e não devolve ataques.</p></figcaption></figure>
 
 </div>
 
@@ -49,15 +49,15 @@ description: >-
 
 * Desbloqueado após obter o Cajado;
 * **Possui Cooldown -** Utilizado Para desviar tanto inimigos quanto seus ataques, projéteis ou armadilhas, espinhos;
-* Ao dar Parry no ataque de um inimigo, o jogador repele esse ataque na direção que quiser, podendo revidar o ataque para inimigos de mesmo elemento do ataque revidado. É possível também usar esse Parry para baixo, para gerar um impulso maior que um pulo;
-* Sendo jovem, o protagonista não possui ainda a força física necessária para destruir objetos, muito menos machucar os inimigos, dependendo de sua energia e seu cajado para redirecionar os golpes pré-existentes, para assim conseguir interagir com o cenário e atordoar os inimigos.
+* Ao dar Parry no ataque de um inimigo, o jogador repele esse ataque na direção que quiser, podendo revidar o ataque para inimigos do mesmo elemento do ataque. É possível também usar esse Parry para baixo, conseguindo um impulso maior que um pulo;
+* Por ser jovem, o protagonista não possui ainda a força física necessária para destruir objeto, muito menos tem o intuito de machucar os inimigos, por conta de seus ideais, dependendo de sua energia e seu Cajado para redirecionar os golpes pré-existentes, para conseguir interagir com o cenário e atordoar os inimigos.
 
 Os inimigos são apenas nocauteados até entrar novamente na tela ou se recuperam após um período de tempo. E ao dar parry para baixo em algum ataque, armadilha, o personagem ganha impulso para cima, conseguindo atingir lugares mais altos.
 
 * Problema - Acessibilidade para daltonismo;
 * Solução - Utilizar formas ou estilos diferentes para cada partícula das habilidades e cada cor do parry que funciona com tal tipo de ataque. (Ataque normal, Ataque forte e Especial.
 
-Elementos ligados às cores - Água / Azul, Fogo / Vermelho, Marrom / Terra, Verde / Natureza, Turquesa / Vento. O protagonista começará com a energia verde, tendo que coletar as outras durante o jogo, e durante a DEMO a coletar a Marrom.
+Elementos ligados às cores - Água / Azul, Fogo / Vermelho, Marrom / Terra, Verde / Natureza, Amarelo / Vento. O protagonista começará com a energia verde, tendo que coletar as outras durante o jogo, e durante a DEMO a coletar a Marrom.
 
 <div>
 
@@ -65,7 +65,7 @@ Elementos ligados às cores - Água / Azul, Fogo / Vermelho, Marrom / Terra, Ver
 
  
 
-<figure><img src="../.gitbook/assets/Shield Color (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Shield Color.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -85,7 +85,7 @@ Habilidade da Máscara - Desbloqueada após obter o Cajado, pois ao dar um Parry
 
 * Movimentação - Gera Estruturas para o jogador pular e acessar novas áreas que não conseguiria, ou cria buracos no chão levando a novos locais, podendo ser pequenas áreas com baús por exemplo;
 
-**Absorveu Ar (Turquesa):**
+**Absorveu Ar (Amarelo):**
 
 * Movimentação - Gera Nuvens ou redemoinhos para o jogador usar de caminho;
 
