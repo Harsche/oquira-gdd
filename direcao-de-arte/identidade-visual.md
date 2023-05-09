@@ -26,7 +26,9 @@ Nós optamos por por conta da temática utilizar elementos mais orgânicos, auxi
 
 _Descrito melhor na sessão de Narrativa - WorldBuilding e Storytelling._
 
-<figure><img src="../.gitbook/assets/Teste de cores (1) (1).jpg" alt=""><figcaption><p>Cor dos elementos abaixo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Teste de cores (1) (1).jpg" alt=""><figcaption><p>Cores mãe e representação dos elementos descritos abaixo</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Paleta.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
