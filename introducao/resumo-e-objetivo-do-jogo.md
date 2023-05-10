@@ -1,7 +1,6 @@
 # Resumo e Objetivo do Jogo
 
-
-<figure><img src="../.gitbook/assets/Capa Provisória (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MenuSite (1).gif" alt=""><figcaption></figcaption></figure>
 
 ## Resumo
 
