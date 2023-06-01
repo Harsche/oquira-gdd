@@ -21,7 +21,6 @@
 * [Câmera](gameplay/camera.md)
 * [Interfaces](gameplay/interfaces.md)
 * [Mapa de Navegação](gameplay/mapa-de-navegacao.md)
-* [Minigames (?)](gameplay/minigames.md)
 
 ## 🎨 Direção de Arte
 
@@ -59,8 +58,3 @@
 
 * [Lista](apendices/lista.md)
 * [Scripts](apendices/scripts.md)
-* [Textos](apendices/textos.md)
-
-***
-
-* [Cola (EXCLUIR)](cola-excluir.md)

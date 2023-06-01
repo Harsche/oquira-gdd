@@ -38,4 +38,4 @@ Durante muitas eras foram os representantes e guardiões de cada um dos elemento
 
 **Dançarina das Águas -** Quest com item único de recompensa.
 
-<figure><img src="../.gitbook/assets/Idle-Personagens.gif" alt=""><figcaption><p>O Mentor &#x26; o Vendedor Viajante da Natureza - Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Idle-Personagens.gif" alt=""><figcaption><p>O Mentor Ubiratâ &#x26; o Viajante Ibiraci da Natureza - Animation By Manuella Garcia</p></figcaption></figure>
