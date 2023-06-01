@@ -1,4 +1,28 @@
+---
+description: Wireframe e Mockups
+---
+
 # Interfaces
+
+<figure><img src="../.gitbook/assets/MAIN MENU.jpg" alt=""><figcaption><p>Main Menu</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Carregar Jogo.jpg" alt=""><figcaption><p>Load game</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/CenarioTeste2.jpg" alt=""><figcaption><p>HUD In Game</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Pause.jpg" alt=""><figcaption><p>Pause</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/TelaPause.png" alt=""><figcaption><p>Pause</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/TelaAcessibilidade.png" alt=""><figcaption><p>Opções de Acessibilidade</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/TelaAudio.png" alt=""><figcaption><p>Opções de Áudio</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/TelaGraficos.png" alt=""><figcaption><p>Opções de Gráficos</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/TelaLore.png" alt=""><figcaption><p>Bestiário</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Text.jpg" alt=""><figcaption><p>NPC interaction</p></figcaption></figure>
 
 ## Wireframe
 
@@ -38,7 +62,9 @@
 
 ### Ícones da Interface
 
-<figure><img src="../.gitbook/assets/CenarioTeste2.jpg" alt=""><figcaption><p>Teste da Interface in Game</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CenarioTeste2 (2).jpg" alt=""><figcaption><p>Teste da Interface in Game</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Teste de cores (2).jpg" alt=""><figcaption><p>Teste de valores das cores das Energias</p></figcaption></figure>
 
 <div>
 
@@ -103,60 +129,6 @@
  
 
 <figure><img src="../.gitbook/assets/Shift.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-## Cores e Tipografias
-
-<figure><img src="../.gitbook/assets/Teste de cores (2).jpg" alt=""><figcaption><p>Teste de valores das cores das Energias</p></figcaption></figure>
-
-Nós optamos por buscar fontes que lembram a estética artística indígena além de fontes com serífa para facilitar a leitura mas uma opção, teste com fontes mais orgânicas, mantendo a estética definida e detalhada na seção abaixo.
-
-<div>
-
-<figure><img src="../.gitbook/assets/Teste de Tipografias 1.jpg" alt=""><figcaption><p>Teste de Tipografias 1</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Teste de Tipografias 2.jpg" alt=""><figcaption><p>Teste de Tipografias 2</p></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/gunny-rewritten-font-1-original.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/gunny-rewritten-font-2-original.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/gunny-rewritten-font-3-original.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/gunny-rewritten-font-4-original.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/Sequi 3 (1).jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Sequi 7 (1).jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/Sequi 5 (1).jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Sequi 6.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

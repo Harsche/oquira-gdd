@@ -23,7 +23,7 @@ Durante muitas eras foram os representantes e guardiões de cada um dos elemento
 * Vila do Lago e Pântano;
 * Vila da Montanha;
 * Vila do Vulcão;
-* Viajante.\\
+* Viajante.
 
 **Robô Jardineiro -** O único robô do bem.
 

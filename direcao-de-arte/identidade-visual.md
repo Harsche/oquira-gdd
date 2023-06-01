@@ -1,3 +1,7 @@
+---
+description: Estética, Cores e Tipografias
+---
+
 # Identidade Visual
 
 <figure><img src="../.gitbook/assets/MenuSemLogo.gif" alt=""><figcaption></figcaption></figure>
@@ -109,3 +113,55 @@ Representando a entidade da Morte, o que o artificial solta, piche, óleo, resul
 **Significado da Cor -** Enterro, funeral, noite, coisas obscuras, fim, mal, miséria, temor. Entretanto também está associado a sofisticação e requinte (as máquinas, tecnologia no caso).
 
 </details>
+
+## Tipografias
+
+Nós escolhemos usar fontes que lembram a estética artística indígena como a SEQUI, juntamente com fontes com serifa com a Mayflower Antique, garantindo uma leitura fácil. No entanto, também consideramos testar fontes mais orgânicas como a Gunny Rewritten e Indie Flower que mantenham a estética definida e detalhada na seção abaixo.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Teste de Tipografias 1 (2).jpg" alt=""><figcaption><p>Teste de Tipografias 1</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Teste de Tipografias 2 (2).jpg" alt=""><figcaption><p>Teste de Tipografias 2</p></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/gunny-rewritten-font-1-original.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/gunny-rewritten-font-2-original (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/gunny-rewritten-font-3-original.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/gunny-rewritten-font-4-original (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/Sequi 3 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Sequi 7 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/Sequi 5 (3).jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Sequi 6.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
