@@ -27,15 +27,15 @@ description: >-
 
 * Possui Cooldown - Para os lados e para cima ou baixo se não tiver a mecânica de pulo duplo, o dash também atravessa ataques específicos.
 
-<figure><img src="../.gitbook/assets/Dash.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6.gif" alt=""><figcaption><p>É possível dar o Dash horizontalmente e verticalmente, além das diagonais.</p></figcaption></figure>
 
 ## Escudo
 
 * Possui Cooldown - Cria um bolha ao redor do protagonista, absorve ataques (não devolve projéteis), a cor do elemento da energia pode ser alterado, para maior eficiência na defesa;
 
-<figure><img src="../.gitbook/assets/5 (1).gif" alt=""><figcaption><p>Uma bolha ao redor do personagem e não devolve ataques.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/5 (1).gif" alt=""><figcaption><p>Uma bolha ao redor do personagem que absorve o dano, porém consome 1 barrinha de resistência.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Shield Color.gif" alt="" width="360"><figcaption><p>Alterção da Energia do Escudo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Shield Color.gif" alt=""><figcaption><p>Também é possível alterar a Energia do Escudo, dentre os elementos que o personagem dominou.</p></figcaption></figure>
 
 ## Parry - Contra Ataque
 
