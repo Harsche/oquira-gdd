@@ -35,9 +35,10 @@ _Terra, Floresta (próximo à água), pedras, minérios, montanhas e cavernas. I
 \
 **Vilas e Aldeias:**
 
-* Vila das Flores - Distrito dos Brotos;
+* Vila dos Brotos - Distrito das Raízes (primeira vila)
+* Vila dos Brotos - Distrito das Flores;
 * Vila dos Esporos - Distrito do Decaimento / Reciclagem;
-* Aldeia Ancestral
+* Aldeia Ancestral;
 * Aldeia dos Espinhos - ou Vinhas - Borda defensiva e Proteção do altar do Elemento Terra;
 * Aldeia Símia - Alto da Mata / OU / Floresta;
 * Vila dos Jardineiros;
