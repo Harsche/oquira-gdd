@@ -19,15 +19,7 @@ Os inimigos podem ser Artificiais, Naturais Místicos ou não Místicos. Máquin
 * Inimigos com ataque a Distância;
 * Inimigos com ataque de proximidade.
 
-#### Tags - Inimigos podem também possuir TAGS de personalidade Inspirado em Pac-Man:
 
-* Comandante;
-* Presa / Medroso;
-* Caçador / Perseguidor;
-* Valentão;
-* Tímido;
-* Animado / Elétrico;
-* Chorão.
 
 <div>
 
