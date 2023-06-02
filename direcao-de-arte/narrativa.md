@@ -20,7 +20,7 @@ _“Cabe ao escolhido, libertar a morte de seu controle e trazer o equilíbrio d
 
 Consegue a primeira Energia (Terra / Marrom), introdução às mecânicas básicas e desafios do jogo. Cenário focado na vegetação Marrom e Verde.
 
-#### Roteiro da Cutscene de Abertura
+**Roteiro da Cutscene de Abertura**
 
 **OQUIRÁ: Em busca do Equilíbrio**
 
@@ -230,7 +230,7 @@ Fruto do artificial, máquinas programadas para perdurar, fazer manutenção e s
 
 Para evitar que o Artificial utilizasse seu local de poder, eles trancaram os altares das essências elementais, onde estão escondidos e entraram em um estado de transe, cujo só iriam sair quando a hora fosse a certa, quando o escolhido surgisse.
 
-Com o controle das regiões dos Ventos, Fogo e Terra, utilizando seus recursos para transformar em ferramenta de dominação e expansão, os Anciões do Ar e do Fogo foram corrompidos, fragmentando suas energias, perdendo suas forças vitais sua hora com a morte chegou, a atraindo e capturando-a para utilizar como arma. Os Anciões agora vagam sem rumo, Corrompidos, Vazio, dificultando ao jogador encontrar os 2 últimos altares dos elementos finais.
+Com o controle das regiões do Ar, Fogo e Terra, utilizando seus recursos para transformar em ferramenta de dominação e expansão, os Anciões do Ar e do Fogo foram corrompidos, fragmentando suas energias, perdendo suas forças vitais sua hora com a morte chegou, a atraindo e capturando-a para utilizar como arma. Os Anciões agora vagam sem rumo, Corrompidos, Vazio, dificultando ao jogador encontrar os 2 últimos altares dos elementos finais.
 
 ## As 4 Tribos Elementais
 
@@ -244,7 +244,7 @@ Porém com o surgimento do artificial, por meio da união da força de fações,
 
 Foi colocado um fim no ciclo, tudo deve ter um fim, mas nesse caso o consumo desenfreado, sem moderação, sem devolver nada para o ambiente, garantindo o sucesso da próxima geração, se mantendo imortais afetou o equilíbrio das coisas, inclusive a prosperidade do Artificial a longo prazo.
 
-Utilizando essa combinação de forma ofensiva, como ferramenta de dominação da vida e dos seres e ambientes por meio do medo, atraindo a morte e a utilizando como arma, quebrando o equilíbrio do Mundo.\\
+Utilizando essa combinação de forma ofensiva, como ferramenta de dominação da vida e dos seres e ambientes por meio do medo, atraindo a morte e a utilizando como arma, quebrando o equilíbrio do Mundo.
 
 ## O Natural contra Artificial
 
@@ -260,4 +260,4 @@ Surgindo a ameaça contra o Artificial o Natural estava em perigo. Os sábios e 
 
 Então os melhores guerreiros se reuniram juntos a um punhado do melhor que cada região e lugar que podiam oferecer. O plano era adentrar no território cinza e colocar um fim nos avanços, ao menos atrasar o Artificial. A esperança era a chegada do escolhido, da Profecia se concretizar e da Paz e do Equilíbrio voltarem.
 
-Eles conseguiram impedir os avanços nos territórios da Terra, Água e Terra, muitos se sacrificaram em pró de ter algum futuro, muitas cidades agora praticamente desertas. Os planos do Artificial era manter controle das regiões Vermelha e Branca enquanto se recuperam, houve um certo sucesso nisso. Atraíram a morte utilizando os últimos momentos de sanidade dos Anciões Branco e Vermelho, capturando a morte e juntamente com os Anciões corrompidos os utilizando como arma, engrenagem de sua Dominação Territorial por meio da força.
+Eles conseguiram impedir os avanços nos territórios das Plantas, Águas e Terra, muitos se sacrificaram em pró de ter algum futuro, muitas cidades agora praticamente desertas. Os planos do Artificial era manter controle das regiões Vermelha e Branca enquanto se recuperam, houve um certo sucesso nisso. Atraíram a morte utilizando os últimos momentos de sanidade dos Anciões Branco e Vermelho, capturando a morte e juntamente com os Anciões corrompidos os utilizando como arma, engrenagem de sua Dominação Territorial por meio da força.
