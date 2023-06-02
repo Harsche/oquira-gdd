@@ -1,4 +1,8 @@
-# Personagem do Jogador
+---
+description: Ouirá, o personagem do Jogador
+---
+
+# O Protagonista
 
 <figure><img src="../.gitbook/assets/MenuSemLogo.gif" alt=""><figcaption><p>Idle do personagem principal</p></figcaption></figure>
 
@@ -26,6 +30,26 @@ Por conta de sua cultura e ideais, possui apreço por toda vida, propositalmente
 
 ## Outras Animações do Personagem
 
-#### Parry
+<div>
 
-<figure><img src="../.gitbook/assets/OquiraUP_DOWN_GIF.gif" alt=""><figcaption><p>Parry Animation By Rafael Ramos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/OquiraRun.gif" alt=""><figcaption><p>Oquirá Walk - Animation By Rafael Ramos</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/OquiraJump (1).gif" alt=""><figcaption><p>Oquirá Jump - Animation By Rafael Ramos</p></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/OquiraParry.gif" alt=""><figcaption><p>Oquirá Parry - Animation By Rafael Ramos</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/OquiraDashExport.gif" alt=""><figcaption><p>Oquirá Dash - Animation By Rafael Ramos</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/OquiraWallGrab (1).gif" alt=""><figcaption><p>Oquirá Wall Grab and jump - Animation By Rafael Ramos</p></figcaption></figure>
+
+</div>

@@ -32,7 +32,7 @@
 
 ## 👥 Personagens
 
-* [Personagem do Jogador](personagens/personagem-do-jogador.md)
+* [O Protagonista](personagens/personagem-do-jogador.md)
 * [NPCs](personagens/npcs.md)
 * [Inimigos](personagens/inimigos.md)
 
