@@ -2,7 +2,7 @@
 
 ## Tipos de Inimigos
 
-_Possibilidades de Combinação_\\
+_Possibilidades de Combinação_
 
 A primeira aparição de qualquer tipo novo de inimigo, ou combinação será vista como um Semi-Boss, muito comum em Souls Like, Hollow Knight etc.
 
@@ -23,11 +23,11 @@ Os inimigos podem ser Artificiais, Naturais Místicos ou não Místicos. Máquin
 
 <div>
 
-<figure><img src="../.gitbook/assets/Praga.gif" alt=""><figcaption><p>Caubi Idle  - Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Praga---Idle.gif" alt=""><figcaption><p>Caubi Idle  - Animation By Manuella Garcia</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Praga-Andando.gif" alt=""><figcaption><p>Caubi Attack  - Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Praga---Andando.gif" alt=""><figcaption><p>Caubi Attack  - Animation By Manuella Garcia</p></figcaption></figure>
 
 </div>
 
@@ -47,24 +47,40 @@ Os inimigos podem ser Artificiais, Naturais Místicos ou não Místicos. Máquin
 
  
 
-<figure><img src="../.gitbook/assets/Estramonio-Andando.gif" alt=""><figcaption><p>Itacira Walking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Estramonio---Andando.gif" alt=""><figcaption><p>Itacira Walking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
 </div>
 
-<figure><img src="../.gitbook/assets/Estramonio---ataque-final.gif" alt=""><figcaption><p>Itacira Attacking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Estramonio---ataque.gif" alt="" width="375"><figcaption><p>Itacira Attacking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
 <div>
 
-<figure><img src="../.gitbook/assets/Salsa-Idle.gif" alt=""><figcaption><p>Caporitra Idle - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Salsa-Idle (1).gif" alt=""><figcaption><p>Caporitra Idle - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Salsa-ataque.gif" alt=""><figcaption><p>Capotira Attack - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Salsa-ataque (1).gif" alt=""><figcaption><p>Capotira Attack - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
 </div>
 
-<figure><img src="../.gitbook/assets/Inimigo-Magro-Walk.gif" alt=""><figcaption><p>Taciatã Walk</p></figcaption></figure>
+<div>
 
-<figure><img src="../.gitbook/assets/Inimigo-Magro-Ataque (2).gif" alt=""><figcaption><p>Taciatã Attack</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CogumeloWalk (1).gif" alt=""><figcaption><p>Ipojuca Walk - Animation By Rafael Ramos</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/InimigosNovo.png" alt=""><figcaption><p>Outros Inimigos</p></figcaption></figure>
+ 
+
+<figure><img src="../.gitbook/assets/CogumeloAtack2 (1).gif" alt=""><figcaption><p>Ipojuca Attack - Animation By Rafael Ramos</p></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/Walk.gif" alt=""><figcaption><p>Taciatã Walk - Animation By Rafael Ramos</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Inimigo-Magro-Ataque.gif" alt=""><figcaption><p>Taciatã Attack - Animation By Rafael Ramos</p></figcaption></figure>
+
+</div>
+
+<figure><img src="../.gitbook/assets/InimigosNovo.png" alt=""><figcaption><p>Extra Enemies</p></figcaption></figure>
