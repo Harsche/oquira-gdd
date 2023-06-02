@@ -10,11 +10,9 @@ description: >-
 
 <details>
 
-<summary><strong>Elemento Natureza - Região Verde - Parte da DEMO</strong></summary>
+<summary><strong>Elemento Planta - Região Verde - Parte da DEMO</strong></summary>
 
 _Terra, Floresta (próximo à água), pedras, minérios, montanhas e cavernas. Insetos, animais e criaturas endêmicas à região, fungos entre outros. Sinergia com os elementos de Água e Terra._
-
-
 
 **Grutas e Cavernas:**
 
@@ -22,57 +20,49 @@ _Terra, Floresta (próximo à água), pedras, minérios, montanhas e cavernas. I
 * Gruta da Realização;
 * Caverna dos Desejos;
 * Gruta da Vidente;
-* Gruta das Águas - Acesso para a região Azul e Atalho para a Vila dos Esporos - Distrito do Decaimento / Reciclagem. \
-
+* Gruta das Águas - Acesso para a região Azul e Atalho para a Vila dos Esporos - Distrito do Decaimento / Reciclagem. \\
 
 **Clareiras:**
 
-* Clareira Luminosa;
-* Clareira da Observação - Observatório - Acesso para a altitude das copas, caminho para a região Marrom;\
-
+* Clareira Luminosa - Local de Descanso e Meditação do Ancião das Plantas;
+* Clareira da Observação - Observatório - Acesso para a altitude das copas, caminho para a região Marrom;
 
 **Copas das Árvores:**
 
 * Alto da Mata / ou / da Floresta;
 * Copa da Orientação - Caminho de Acesso para a região Branca, Vila da Contemplação e dos Astros;
 
-
-
 \
 **Vilas e Aldeias:**
 
-* Vila das Flores - Distrito dos Brotos;
+* Vila dos Brotos - Distrito das Raízes (primeira vila)
+* Vila dos Brotos - Distrito das Flores;
 * Vila dos Esporos - Distrito do Decaimento / Reciclagem;
-* Aldeia Ancestral - Local de Descanso e Meditação do Ancião da Natureza;
+* Aldeia Ancestral;
 * Aldeia dos Espinhos - ou Vinhas - Borda defensiva e Proteção do altar do Elemento Terra;
-* Aldeia Simia - Alto da Mata / OU / Floresta;
+* Aldeia Símia - Alto da Mata / OU / Floresta;
 * Vila dos Jardineiros;
 
 </details>
 
 <details>
 
-<summary>Elemento Terra - Região Marrom - <strong>Parte da DEMO</strong></summary>
+<summary>Elemento Terra - Região Marrom</summary>
 
 _Terra, Floresta (próximo à água), pedras, minérios, montanhas e cavernas. Insetos, animais e criaturas endêmicas à região, fungos entre outros. Sinergia com os elementos de Água, Fogo além o da Natureza._
 
-
-
 **Grutas e Cavernas:**
 
-* Gruta das Preciosidades\
-
+* Gruta das Preciosidades\\
 
 **Clareiras:**
 
-* Pedreira.\
-
+* Pedreira.\\
 
 **Copas da Montanha:**
 
 * Observatório da Gárgula;
-* Alto da Cordilheira.\
-
+* Alto da Cordilheira.\\
 
 **Vilas e Aldeias:**
 
@@ -81,21 +71,17 @@ _Terra, Floresta (próximo à água), pedras, minérios, montanhas e cavernas. I
 * Vila dos Pedregulhos;
 * Vila da Mina - Caminho para o interior da Montanha, Magma Forja;
 
-
-
 </details>
 
 <details>
 
 <summary>Elemento Água - Região Azul</summary>
 
-_Água. Ambiente húmido, criaturas e plantas aquáticas, cavernas úmidas, pântanos, fungos etc. Sinergia com elementos da Terra além da Natureza._\
-
+_Água. Ambiente húmido, criaturas e plantas aquáticas, cavernas úmidas, pântanos, fungos etc. Sinergia com elementos da Terra além da Natureza._\\
 
 **Grutas e Cavernas:**
 
-* Caminho das Águas - Acesso a Gruta das Águas e caminho  para a região da Terra, Acesso para a Vila dos Esporos - Distrito do Decaimento / Reciclagem.\
-
+* Caminho das Águas - Acesso a Gruta das Águas e caminho para a região da Terra, Acesso para a Vila dos Esporos - Distrito do Decaimento / Reciclagem.\\
 
 **Vilas e Aldeias:**
 
@@ -103,8 +89,7 @@ _Água. Ambiente húmido, criaturas e plantas aquáticas, cavernas úmidas, pân
 * Vila das Águas Dançarinas;
 * Vila da Foz Delta - Deságue - Porto e possível expansão marítima futura;
 * Vila dos Sapos - Distrito Girino;
-* Vila Salamandra.\
-
+* Vila Salamandra.\\
 
 **Ideias de Lugares:**
 
@@ -118,21 +103,18 @@ _Água. Ambiente húmido, criaturas e plantas aquáticas, cavernas úmidas, pân
 <summary>Elemento Ar - Região Amarela</summary>
 
 Vento, regiões altas e montanhosas. Possui sinergia com o com o Vermelho, o elemento do Fogo.\
-\
-
+\\
 
 **Grutas e Cavernas:**
 
 * Caverna Cata-Vento;
 * Gruta dos Sinos.
-* Caverna dos Sussurros;\
-
+* Caverna dos Sussurros;\\
 
 **Vilas e Aldeias:**
 
 * Vila da Contemplação;
-* Aldeia dos Astros;\
-
+* Aldeia dos Astros;\\
 
 **Alto da Montanha:**
 
@@ -145,8 +127,7 @@ Vento, regiões altas e montanhosas. Possui sinergia com o com o Vermelho, o ele
 
 <summary>Elemento Fogo - Região Vermelha</summary>
 
-Fogo, Regiões, Vulcões, Desertos, tomados por máquinas, destruição e caos. Sinergia com o elemento Ar.\
-
+Fogo, Regiões, Vulcões, Desertos, tomados por máquinas, destruição e caos. Sinergia com o elemento Ar.\\
 
 **Ideias de Lugares:**
 
@@ -164,8 +145,7 @@ Fogo, Regiões, Vulcões, Desertos, tomados por máquinas, destruição e caos. 
 
 <summary>O Artificial - Região Cinza</summary>
 
-_Localização da Morte (Preto). Lugares na Cidade de Pedra, Protegido pelas máquinas._\
-
+_Localização da Morte (Preto). Lugares na Cidade de Pedra, Protegido pelas máquinas._\\
 
 **Ideias de Lugares:**
 
@@ -174,4 +154,3 @@ _Localização da Morte (Preto). Lugares na Cidade de Pedra, Protegido pelas má
 * Lugares que lembram o consumismo e o capitalismo sem moderação, algo de outra época, agora aproveitados pelas máquinas que permaneceram.
 
 </details>
-

@@ -19,8 +19,8 @@
 * [Controles](gameplay/controles.md)
 * [Mecânicas](gameplay/mecanicas.md)
 * [Câmera](gameplay/camera.md)
-* [Interfaces](gameplay/interfaces.md)
 * [Mapa de Navegação](gameplay/mapa-de-navegacao.md)
+* [Interfaces](gameplay/interfaces.md)
 
 ## 🎨 Direção de Arte
 

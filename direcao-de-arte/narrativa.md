@@ -20,7 +20,7 @@ _“Cabe ao escolhido, libertar a morte de seu controle e trazer o equilíbrio d
 
 Consegue a primeira Energia (Terra / Marrom), introdução às mecânicas básicas e desafios do jogo. Cenário focado na vegetação Marrom e Verde.
 
-#### Roteiro da Cutscene de Abertura
+**Roteiro da Cutscene de Abertura**
 
 **OQUIRÁ: Em busca do Equilíbrio**
 
@@ -230,7 +230,7 @@ Fruto do artificial, máquinas programadas para perdurar, fazer manutenção e s
 
 Para evitar que o Artificial utilizasse seu local de poder, eles trancaram os altares das essências elementais, onde estão escondidos e entraram em um estado de transe, cujo só iriam sair quando a hora fosse a certa, quando o escolhido surgisse.
 
-Com o controle das regiões dos Ventos, Fogo e Terra, utilizando seus recursos para transformar em ferramenta de dominação e expansão, os Anciões do Ar e do Fogo foram corrompidos, fragmentando suas energias, perdendo suas forças vitais sua hora com a morte chegou, a atraindo e capturando-a para utilizar como arma. Os Anciões agora vagam sem rumo, Corrompidos, Vazio, dificultando ao jogador encontrar os 2 últimos altares dos elementos finais.
+Com o controle das regiões do Ar, Fogo e Terra, utilizando seus recursos para transformar em ferramenta de dominação e expansão, os Anciões do Ar e do Fogo foram corrompidos, fragmentando suas energias, perdendo suas forças vitais sua hora com a morte chegou, a atraindo e capturando-a para utilizar como arma. Os Anciões agora vagam sem rumo, Corrompidos, Vazio, dificultando ao jogador encontrar os 2 últimos altares dos elementos finais.
 
 ## As 4 Tribos Elementais
 
@@ -244,7 +244,7 @@ Porém com o surgimento do artificial, por meio da união da força de fações,
 
 Foi colocado um fim no ciclo, tudo deve ter um fim, mas nesse caso o consumo desenfreado, sem moderação, sem devolver nada para o ambiente, garantindo o sucesso da próxima geração, se mantendo imortais afetou o equilíbrio das coisas, inclusive a prosperidade do Artificial a longo prazo.
 
-Utilizando essa combinação de forma ofensiva, como ferramenta de dominação da vida e dos seres e ambientes por meio do medo, atraindo a morte e a utilizando como arma, quebrando o equilíbrio do Mundo.\\
+Utilizando essa combinação de forma ofensiva, como ferramenta de dominação da vida e dos seres e ambientes por meio do medo, atraindo a morte e a utilizando como arma, quebrando o equilíbrio do Mundo.
 
 ## O Natural contra Artificial
 
@@ -260,4 +260,153 @@ Surgindo a ameaça contra o Artificial o Natural estava em perigo. Os sábios e 
 
 Então os melhores guerreiros se reuniram juntos a um punhado do melhor que cada região e lugar que podiam oferecer. O plano era adentrar no território cinza e colocar um fim nos avanços, ao menos atrasar o Artificial. A esperança era a chegada do escolhido, da Profecia se concretizar e da Paz e do Equilíbrio voltarem.
 
-Eles conseguiram impedir os avanços nos territórios da Terra, Água e Terra, muitos se sacrificaram em pró de ter algum futuro, muitas cidades agora praticamente desertas. Os planos do Artificial era manter controle das regiões Vermelha e Branca enquanto se recuperam, houve um certo sucesso nisso. Atraíram a morte utilizando os últimos momentos de sanidade dos Anciões Branco e Vermelho, capturando a morte e juntamente com os Anciões corrompidos os utilizando como arma, engrenagem de sua Dominação Territorial por meio da força.
+Eles conseguiram impedir os avanços nos territórios das Plantas, Águas e Terra, muitos se sacrificaram em pró de ter algum futuro, muitas cidades agora praticamente desertas. Os planos do Artificial era manter controle das regiões Vermelha e Branca enquanto se recuperam, houve um certo sucesso nisso. Atraíram a morte utilizando os últimos momentos de sanidade dos Anciões Branco e Vermelho, capturando a morte e juntamente com os Anciões corrompidos os utilizando como arma, engrenagem de sua Dominação Territorial por meio da força.
+
+## Roteiro de Diálogos dos NPCs
+
+<details>
+
+<summary>Ubiratã - O Mentor</summary>
+
+#### Encontro 1 - Altar do Cajado
+
+* Finalmente! Achei que nunca estaria vivo para ver esse momento.
+* Difícil o acesso até aqui, não acha? Mas ainda sim você chegou aqui! Impressionante, está fazendo seu rito de passagem?
+* Não? Bem que eu suspeitava. Mais cedo eu senti algo de diferente no ar. Parece que a floresta está agitada, mas não de uma forma ruim…
+* Pareciam comemorar algo, então fui visitar o Enarê, O grande Ancião em busca de orientação, então vim para cá.
+* Veja bem, esse cajado está aqui há muito tempo e apenas uma pessoa viva conheceu alguém que conseguiu empunhá-lo, por eras ninguém conseguiu obtê-lo… tantos já tentaram…
+* Mas finalmente, ainda há esperanças!
+* Segundo a profecia, apenas aquele com a essência mais pura, de corpo e alma, poderia ser capaz de empunhá-lo.
+* Nossa mas que falta de educação minha…&#x20;
+* Prazer meu nome é Ubiratã, significa madeira forte, sou o defensor das plantas e da vila próximo daqui. E qual o seu nome?
+* Prazer em conhecê-lo Oquirá, o Escolhido! Seu nome realmente faz jus… pequeno broto, mas para o escolhido, eu esperava alguém… maior?
+* Bom não faz mal. O cajado canaliza sua força vital, sua energia, aumentando suas capacidades, por exemplo, para se defender ou devolver ataques.
+* Essa jornada é sua, infelizmente não tenho o conhecimento para te auxiliar no uso do cajado, porém se quiser posso te orientar pelo caminho, se assim desejar.
+* Oquirá, é uma honra ser seu Mentor ao longo dessa caminhada!
+* Logo devo seguir para a vila próxima daqui, só quero meditar e me preparar para o que está por vir.
+
+<!---->
+
+* Até logo.
+
+#### Encontro 2 - Vila dos Brotos - Distrito das Raízes
+
+
+
+* Bem-vindo a Vila dos Brotos Oquirá!&#x20;
+* O caminho até aqui foi tranquilo?
+* Que bom.
+* Aqui é uma zona segura onde vai encontrar tudo o que precisa, por exemplo seguindo em frente tem uma loja.
+* Sugiro que vá visitar o Ancião, só seguir essas plataformas que vão te levar para cima.
+* Quando chegar na última plataforma, espere e tenha paciência, eventualmente vai encontrar alguma forma de subir.
+
+</details>
+
+<details>
+
+<summary>Ualri - O Contador de Histórias</summary>
+
+#### Encontro 1 - Vila dos Brotos - Distrito das Raízes
+
+* ZzzzzZzzzZzz…
+* ZzzZZzzZzzzzzZzz…
+* AAAHHHH! Ei, não me assusta assim, um idoso não pode nem descansar por um momento…
+* Pera, que horas são?&#x20;
+* Meu nome? Ualri, viajo por todos os cantos, coletando histórias e vendendo notícias entre vilarejos.
+* Como pode imaginar pela minha vida curta vi pouca coisa por ai ahhahahaha.
+* Como já não sou tão novo prefiro ficar mais no vilarejo, já que é seguro. Diferente das passagens por aí…
+* Enfim, está interessado em histórias ou informações? Claro, por uma pequena quantidade de essências.
+* Todos precisam de essências… se não quiserem vagar por aí sem rumo… com a idade fica mais difícil ir a outras vilas para conseguir algumas.
+* Há muito tempo a morte está ausente, e agora não tem ninguém para pôr um fim no ciclo natural da vida.
+* Bom, foi um prazer conhecê-lo Oquirá, agora se não te incomodar vou voltar a dormir.
+
+<!---->
+
+* ZzzzZzzzzZzz…
+
+</details>
+
+<details>
+
+<summary>Ubajara - O Vendedor de Bens</summary>
+
+#### Encontro 1 - Vila dos Brotos - Distrito das Raízes
+
+* Ubajara, prazer. Sou vendedor de bens para o corpo e a alma!&#x20;
+* Tudo de bom. Tudo que possa querer nessa vida.
+* Se quiser comprar algo é melhor me trazer Essências, alguns perdem, outros encontram…&#x20;
+* Enfim, traga essências para mim, você deve conseguir coletar alguma enquanto eu reformo o interior da loja.
+
+
+
+#### Ao comprar algo:
+
+* Agora sim! Vai fazer a diferença, faça bom proveito.
+
+<!---->
+
+* Sem devoluções, aproveite bem.
+
+<!---->
+
+* Se continuar assim, posso até pensar em te dar descontos.
+
+
+
+#### Ao olhar e não comprar algo:
+
+* …
+
+<!---->
+
+* Hmpt, quem sabe na próxima.
+
+<!---->
+
+* É, quem sabe ainda esteja disponível quando voltar, nunca saberemos.
+
+<!---->
+
+* Certeza que não quer algo?&#x20;
+
+<!---->
+
+* Vai comprar algo ou só olhar mesmo?
+
+</details>
+
+<details>
+
+<summary>Ibiraci - O Viajante</summary>
+
+#### Encontro 1 - Antes de Chegar na Vila dos Brotos - Distrito das Raízes
+
+* Hmm olha só, não esperava encontrar alguém aqui no meio do nada.
+* Não é um lugar tão seguro… quem é você? O que faz por aqui?
+* Oquirá hahah, nome engraçado, combina contigo.
+* Não lembra? Acordou no meio do nada?&#x20;
+* Ah, olha pelo lado bom, sortudo é você, se machucar assim e ainda conseguir acordar… sorte é pouco, imagina perder sua Essência e ficar vagando por aí… sem rumo…
+* Mas sem mais papo furado, tenho coisas a fazer. To passando pelo meu rito de passagem.
+* Quem sabe a gente se vê um dia de novo.&#x20;
+
+</details>
+
+<details>
+
+<summary>Enarê - O Grande Ancião das Plantas</summary>
+
+#### Encontro 1 - Clareira Luminosa
+
+* Prazer em conhecê-lo, Escolhido.
+* Como sei quem você é? A floresta me contou é claro, me disse que o momento que tanto esperamos estava próximo.
+* Há eras, houve uma guerra entre o natural e artificial, a morte foi capturada e o equilíbrio entre a vida e a morte foi quebrado.
+* Os representantes das tribos das Plantas, Águas e Ar se juntaram em uma aliança, para irem contra as forças artificiais.
+* Segundo a profecia, apenas aquele com a alma mais pura, equilibrada, poderia ser capaz de canalizar sua força interior.
+* Imagino que queira saber mais sobre o cajado? Certo?
+* Segundo as lendas, ele foi feito por forças ancestrais mais fundamentais, que ainda temos dificuldade de entender completamente, até mesmo para mim.&#x20;
+* Esse cajado é um canalizador de sua essência vital, sua energia. Dessa forma, dominando todos os elementos terá a força e o conhecimento necessários para enfrentar e trazer o equilíbrio de volta, independente do que aparecer pela frente.
+* O cajado potencializa quem você é, te dá forças para alcançar patamares antes inimagináveis e principalmente, dominar e canalizar elementos que não são de sua própria natureza, a planta no caso.&#x20;
+* Essa é a sua jornada, chegou a hora. Vá à vila das Flores e fale com o Ubiratã sobre o que conversamos, ele irá te ajudar.&#x20;
+* Boa sorte, pequeno broto. O futuro está em suas mãos.
+
+</details>
