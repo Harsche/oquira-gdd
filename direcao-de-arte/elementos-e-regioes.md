@@ -24,8 +24,8 @@ _Terra, Floresta (próximo à água), pedras, minérios, montanhas e cavernas. I
 
 **Clareiras:**
 
-* Clareira Luminosa;
-* Clareira da Observação - Observatório - Acesso para a altitude das copas, caminho para a região Marrom;\\
+* Clareira Luminosa - Local de Descanso e Meditação do Ancião das Plantas;
+* Clareira da Observação - Observatório - Acesso para a altitude das copas, caminho para a região Marrom;
 
 **Copas das Árvores:**
 
@@ -37,9 +37,9 @@ _Terra, Floresta (próximo à água), pedras, minérios, montanhas e cavernas. I
 
 * Vila das Flores - Distrito dos Brotos;
 * Vila dos Esporos - Distrito do Decaimento / Reciclagem;
-* Aldeia Ancestral - Local de Descanso e Meditação do Ancião da Natureza;
+* Aldeia Ancestral
 * Aldeia dos Espinhos - ou Vinhas - Borda defensiva e Proteção do altar do Elemento Terra;
-* Aldeia Simia - Alto da Mata / OU / Floresta;
+* Aldeia Símia - Alto da Mata / OU / Floresta;
 * Vila dos Jardineiros;
 
 </details>
