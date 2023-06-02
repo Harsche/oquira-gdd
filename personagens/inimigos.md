@@ -47,7 +47,7 @@ Os inimigos podem ser Artificiais, Naturais Místicos ou não Místicos. Máquin
 
  
 
-<figure><img src="../.gitbook/assets/Estramonio---Andando.gif" alt=""><figcaption><p>Itacira Walking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Estramonio---Andando (1).gif" alt=""><figcaption><p>Itacira Walking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
 </div>
 

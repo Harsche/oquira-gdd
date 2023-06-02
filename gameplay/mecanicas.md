@@ -27,26 +27,26 @@ description: >-
 
 * Possui Cooldown - Para os lados e para cima ou baixo se não tiver a mecânica de pulo duplo, o dash também atravessa ataques específicos.
 
-<figure><img src="../.gitbook/assets/6.gif" alt=""><figcaption><p>É possível dar o Dash horizontalmente e verticalmente, além das diagonais.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/6.gif" alt="" width="375"><figcaption><p>É possível dar o Dash horizontalmente e verticalmente, além das diagonais.</p></figcaption></figure>
 
 ## Escudo
 
 * Possui Cooldown - Cria um bolha ao redor do protagonista, absorve ataques (não devolve projéteis), a cor do elemento da energia pode ser alterado, para maior eficiência na defesa;
 
-<figure><img src="../.gitbook/assets/5 (1).gif" alt=""><figcaption><p>Uma bolha ao redor do personagem que absorve o dano, porém consome 1 barrinha de resistência.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/5 (1).gif" alt="" width="375"><figcaption><p>Uma bolha ao redor do personagem que absorve o dano, porém consome 1 barrinha de resistência.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Shield Color.gif" alt=""><figcaption><p>Também é possível alterar a Energia do Escudo, dentre os elementos que o personagem dominou.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Shield Color.gif" alt="" width="360"><figcaption><p>Também é possível alterar a Energia do Escudo, dentre os elementos que o personagem dominou.</p></figcaption></figure>
 
 ## Parry - Contra Ataque
 
-<figure><img src="../.gitbook/assets/3.gif" alt=""><figcaption><p>Direcionar o projétil rebatido para a direção desejado, utilizando o cursor do mouse.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3.gif" alt="" width="375"><figcaption><p>Direcionar o projétil rebatido para a direção desejado, utilizando o cursor do mouse.</p></figcaption></figure>
 
 * Desbloqueado após obter o Cajado;
 * **Possui Cooldown -** Utilizado Para desviar tanto inimigos quanto seus ataques, projéteis ou armadilhas, espinhos;
 * Ao dar Parry no ataque de um inimigo, o jogador repele esse ataque na direção que quiser, podendo revidar o ataque para inimigos do mesmo elemento do ataque. É possível também usar esse Parry para baixo, conseguindo um impulso maior que um pulo;
 * Por ser jovem, o protagonista não possui ainda a força física necessária para destruir objeto, muito menos tem o intuito de machucar os inimigos, por conta de seus ideais, dependendo de sua energia e seu Cajado para redirecionar os golpes pré-existentes, para conseguir interagir com o cenário e atordoar os inimigos.
 
-<figure><img src="../.gitbook/assets/4.gif" alt=""><figcaption><p>Rebater projéteis para locais de interação.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4.gif" alt="" width="375"><figcaption><p>Rebater projéteis para locais de interação.</p></figcaption></figure>
 
 Os inimigos são apenas nocauteados ao serem atingidos pelo projetil rebatido, os inimigos se recuperam ao entrar novamente na sala ou após um período de tempo. E ao dar parry para baixo em algum ataque, armadilha, o personagem ganha impulso para cima, conseguindo atingir lugares mais altos.
 
@@ -57,7 +57,7 @@ Elementos ligados às cores - Água / Azul, Fogo / Vermelho, Marrom / Terra, Ver
 
 ## Absorção Elemental
 
-<figure><img src="../.gitbook/assets/4.gif" alt=""><figcaption><p>Ao dar parry, rebater um projétil, o elemento relacionado é absorvido para 1 uso. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4.gif" alt="" width="375"><figcaption><p>Ao dar parry, rebater um projétil, o elemento relacionado é absorvido para 1 uso. </p></figcaption></figure>
 
 Habilidade da Máscara - Desbloqueada após obter o Cajado, pois ao dar um Parry, o jogador absorve na máscara o elemento que acabou de redirecionar, essa mecânica será usada nos cenários de formas diferentes, de acordo com a energia absorvida:
 
