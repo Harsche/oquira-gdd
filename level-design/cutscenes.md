@@ -26,7 +26,7 @@ A abertura do jogo apresenta a história do desequilíbrio entre vida e morte, i
 
 <details>
 
-<summary><strong>Ato II -</strong> Turquesa &#x26; Azul;</summary>
+<summary><strong>Ato II -</strong> Amarelo &#x26; Azul;</summary>
 
 
 

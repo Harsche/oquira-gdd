@@ -9,4 +9,9 @@ description: Softwares utilizados durante a produção do jogo
 * Adobe Photoshop;
 * Adobe Premiere;
 * Adobe After Effects;
+* Adobe Media Encoder;
+* Inky;
+* Figma;
+* Trello;
+* Coogle;
 *

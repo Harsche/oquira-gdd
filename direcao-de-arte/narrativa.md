@@ -224,7 +224,7 @@ Maior ápice. Consegue a Quarta e última Energia (Fogo / Vermelho) e vai para o
 
 Muito tempo atrás, as regiões elementais se juntaram e surgiu o Natural, Natureza. Continuando seus esforços em nome do avanço, as regiões de fogo se uniram com a dos ventos, combinando suas habilidades e avançando atrás da região da Terra, unindo seus conhecimentos e poderio para criar as máquinas, surgindo o Artificial, e entrando em uma nova Era de Ouro, uma revolução que mudaria as coisas para sempre.
 
-Porém houve a queda da Era de ouro, civilizações sumiram por motivos desconhecidos, mas sua tecnologia ficou para trás.
+Porém houve a queda dessa Era, civilizações sumiram por motivos desconhecidos, mas sua tecnologia ficou para trás.
 
 Fruto do artificial, máquinas programadas para perdurar, fazer manutenção e se espalham por todos os cantos, consumindo e conquistando. Quebrando o equilíbrio que existia. Os sábios da época receberam um aviso da expansão do Artificial, de seu consumo, controle das regiões, e que algum dia iria surgir alguém capaz de trazer o equilíbrio de volta.
 

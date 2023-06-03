@@ -6,7 +6,7 @@ _Possibilidades de Combinação_
 
 A primeira aparição de qualquer tipo novo de inimigo, ou combinação será vista como um Semi-Boss, muito comum em Souls Like, Hollow Knight etc.
 
-Os inimigos podem ser Artificiais, Naturais Místicos ou não Místicos. Máquinas, Insetos, Animais, Criaturas Elementais: Verde, Marrom, Azul, Turquesa, Vermelho, Cinza.\\
+Os inimigos podem ser Artificiais, Naturais Místicos ou não Místicos. Máquinas, Insetos, Animais, Criaturas Elementais: Verde, Marrom, Azul, Amarelo, Vermelho, Cinza.
 
 * Inimigos Normais com Andar;
 * Inimigos com Defender;

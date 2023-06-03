@@ -103,18 +103,18 @@ _Água. Ambiente húmido, criaturas e plantas aquáticas, cavernas úmidas, pân
 <summary>Elemento Ar - Região Amarela</summary>
 
 Vento, regiões altas e montanhosas. Possui sinergia com o com o Vermelho, o elemento do Fogo.\
-\\
+
 
 **Grutas e Cavernas:**
 
 * Caverna Cata-Vento;
 * Gruta dos Sinos.
-* Caverna dos Sussurros;\\
+* Caverna dos Sussurros;
 
 **Vilas e Aldeias:**
 
 * Vila da Contemplação;
-* Aldeia dos Astros;\\
+* Aldeia dos Astros;
 
 **Alto da Montanha:**
 
