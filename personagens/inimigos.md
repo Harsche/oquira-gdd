@@ -43,15 +43,17 @@ Os inimigos podem ser Artificiais, Naturais Místicos ou não Místicos. Máquin
 
 <div>
 
-<figure><img src="../.gitbook/assets/Estramonio---Idle.gif" alt=""><figcaption><p>Itacira Idle - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Itacira_Idle.gif" alt=""><figcaption><p>Itacira Idle - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Estramonio---Andando (1).gif" alt=""><figcaption><p>Itacira Walking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Itacira_Walk.gif" alt=""><figcaption><p>Itacira Walking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Itacira_Attack.gif" alt=""><figcaption><p>Itacira Attacking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
 </div>
-
-<figure><img src="../.gitbook/assets/Estramonio---ataque.gif" alt="" width="375"><figcaption><p>Itacira Attacking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
 <div>
 
