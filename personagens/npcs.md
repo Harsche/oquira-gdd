@@ -38,6 +38,10 @@ Durante muitas eras foram os representantes e guardiões de cada um dos elemento
 
 **Dançarina das Águas -** Quest com item único de recompensa.
 
+
+
+## NPCs Animations
+
 <figure><img src="../.gitbook/assets/Mentor---Idle.gif" alt=""><figcaption><p>Ubiratâ, o Mentor de Oquirá - Animation By Manuella Garcia</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Aventureiro-Idle.gif" alt=""><figcaption><p>Ibiraci, o Viajante - Animation By Manuella Garcia</p></figcaption></figure>

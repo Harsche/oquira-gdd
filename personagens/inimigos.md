@@ -19,7 +19,7 @@ Os inimigos podem ser Artificiais, Naturais Místicos ou não Místicos. Máquin
 * Inimigos com ataque a Distância;
 * Inimigos com ataque de proximidade.
 
-
+## Enemies Animations
 
 <div>
 
