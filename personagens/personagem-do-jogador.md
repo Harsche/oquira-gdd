@@ -10,7 +10,7 @@ description: Ouirá, o personagem do Jogador
 
 ## O(a) Escolhido(a)
 
-Oquirá, o(a) escolhido(a), protagonista do jogo, vindo da aldeia das Flores, do distrito do Broto. Faz parte da tribo da Floresta, seres geralmente pacíficos. O personagem principal é uma criatura inocente e jovem que foi escolhida pelo cajado (pela energia ancestral contida nele), para que consiga trazer o equilíbrio de volta.
+Oquirá, o(a) escolhido(a), protagonista do jogo, vindo da aldeia das Flores. Faz parte da tribo da Floresta, seres geralmente pacíficos. O personagem principal é uma criatura inocente e jovem que foi escolhida pelo cajado (pela energia ancestral contida nele), para que consiga trazer o equilíbrio de volta.
 
 A cor branca  representa a vida e é a combinação de todas as cores. Oquirá tendo sua alma pura, por conta de seus ideais e cultura em que cresceu, é voltada ao budismo e preservação respeito a toda forma de vida, assim como a cor branca pode manipular outros elementos sem ser o seu original.
 

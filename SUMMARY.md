@@ -52,7 +52,7 @@
 
 * [Engine](requerimentos-tecnicos/engine.md)
 * [Ferramentas](requerimentos-tecnicos/ferramentas.md)
-* [Cheats (?)](requerimentos-tecnicos/cheats.md)
+* [Cheats](requerimentos-tecnicos/cheats.md)
 
 ## 📄 Apêndices
 
