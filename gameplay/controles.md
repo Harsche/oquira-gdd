@@ -9,6 +9,7 @@
 * Dar Contra Ataque - Parry;
 * Direcionar Contra ataque;
 * Se defender - Escudo;
+* Utilizar habilidade do elemento absorvido durante o Parry;
 * Trocar Elemento - Energia.
 
 ## Mapeamento

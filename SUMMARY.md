@@ -32,7 +32,7 @@
 
 ## 👥 Personagens
 
-* [Personagem do Jogador](personagens/personagem-do-jogador.md)
+* [O Protagonista](personagens/personagem-do-jogador.md)
 * [NPCs](personagens/npcs.md)
 * [Inimigos](personagens/inimigos.md)
 
@@ -52,7 +52,7 @@
 
 * [Engine](requerimentos-tecnicos/engine.md)
 * [Ferramentas](requerimentos-tecnicos/ferramentas.md)
-* [Cheats (?)](requerimentos-tecnicos/cheats.md)
+* [Cheats](requerimentos-tecnicos/cheats.md)
 
 ## 📄 Apêndices
 

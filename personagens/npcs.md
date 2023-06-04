@@ -38,10 +38,16 @@ Durante muitas eras foram os representantes e guardiões de cada um dos elemento
 
 **Dançarina das Águas -** Quest com item único de recompensa.
 
-<figure><img src="../.gitbook/assets/Idle-Personagens.gif" alt=""><figcaption><p>Ubiratâ, o Mentor de Oquirá &#x26; Ibiraci, o Viajante - Animation By Manuella Garcia</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/CogumeloRanzinza-Idle.gif" alt=""><figcaption><p>Ubajara, o vendedor de bens - Animation By Manuella Garcia</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Grilo-Idle.gif" alt=""><figcaption><p>Ualri, o contador de histórias - Animation By Manuella Garcia</p></figcaption></figure>
+## NPCs Animations
+
+<figure><img src="../.gitbook/assets/Mentor---Idle.gif" alt=""><figcaption><p>Ubiratâ, o Mentor de Oquirá - Animation By Manuella Garcia</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Aventureiro-Idle.gif" alt=""><figcaption><p>Ibiraci, o Viajante - Animation By Manuella Garcia</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/CoguMercadorAnimar.gif" alt=""><figcaption><p>Ubajara, o vendedor de bens - Animation By Manuella Garcia</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/GriloAnimar.gif" alt=""><figcaption><p>Ualri, o contador de histórias - Animation By Manuella Garcia</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Fundo Padrões Indigenas Colorido.jpg" alt=""><figcaption><p>Enarê, o Ancião das Plantas</p></figcaption></figure>
