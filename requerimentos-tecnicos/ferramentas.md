@@ -14,4 +14,4 @@ description: Softwares utilizados durante a produção do jogo
 * Figma;
 * Trello;
 * Coogle;
-*
+
