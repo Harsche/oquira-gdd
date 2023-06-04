@@ -1,5 +1,5 @@
 ---
-description: Ouirá, o personagem do Jogador
+description: Oquirá, o personagem do Jogador
 ---
 
 # O Protagonista
