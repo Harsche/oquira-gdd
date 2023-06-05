@@ -33,11 +33,11 @@ Os inimigos podem ser Artificiais, Naturais Místicos ou não Místicos. Máquin
 
 <div>
 
-<figure><img src="../.gitbook/assets/CogumeloIdle.gif" alt=""><figcaption><p>Idle  - Art &#x26; Animation By Vinícius Alves</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CogumeloIdle.gif" alt=""><figcaption><p>Marani Idle  - Art &#x26; Animation By Vinícius Alves</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/CogumeloAtaque.gif" alt=""><figcaption><p>Attack - Art &#x26; Animation By Vinícius Alves</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CogumeloAtaque.gif" alt=""><figcaption><p>Marani Attack - Art &#x26; Animation By Vinícius Alves</p></figcaption></figure>
 
 </div>
 
