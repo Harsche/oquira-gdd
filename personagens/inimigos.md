@@ -57,7 +57,7 @@ Os inimigos podem ser Artificiais, Naturais Místicos ou não Místicos. Máquin
 
 <div>
 
-<figure><img src="../.gitbook/assets/Salsa-Idle (1).gif" alt=""><figcaption><p>Caporitra Idle - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Salsa-Idle (1).gif" alt=""><figcaption><p>Capotira Idle - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
  
 
@@ -86,3 +86,4 @@ Os inimigos podem ser Artificiais, Naturais Místicos ou não Místicos. Máquin
 </div>
 
 <figure><img src="../.gitbook/assets/InimigosNovo.png" alt=""><figcaption><p>Extra Enemies</p></figcaption></figure>
+
