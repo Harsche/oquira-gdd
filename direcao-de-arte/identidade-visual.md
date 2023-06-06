@@ -22,8 +22,6 @@ Nós optamos por por conta da temática utilizar elementos mais orgânicos, auxi
 
 <figure><img src="../.gitbook/assets/MoodBoard - Pág. 3.jpg" alt=""><figcaption><p>Arte e Padrões Indígenas</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/MoodBoard - Pág. 4.jpg" alt=""><figcaption><p>Arquitetura Indígena brasileira</p></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/MoodBoard - Pág. 5.jpg" alt=""><figcaption><p>Flora nativa do Brasil e algumas espécies de fungos</p></figcaption></figure>
 
 ## Representação das Cores - Progressão e Ambiente
@@ -165,3 +163,4 @@ Nós escolhemos usar fontes que lembram a estética artística indígena como a 
 <figure><img src="../.gitbook/assets/Sequi 6.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
+
