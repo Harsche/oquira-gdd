@@ -36,7 +36,7 @@ Por conta de sua cultura e ideais, possui apreço por toda vida, propositalmente
 
  
 
-<figure><img src="../.gitbook/assets/OquiraJump (1).gif" alt=""><figcaption><p>Oquirá Jump - Animation By Rafael Ramos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/OquiraJump.gif" alt=""><figcaption><p>Oquirá Jump - Animation By Rafael Ramos</p></figcaption></figure>
 
 </div>
 
@@ -50,7 +50,7 @@ Por conta de sua cultura e ideais, possui apreço por toda vida, propositalmente
 
  
 
-<figure><img src="../.gitbook/assets/OquiraWallGrab (1).gif" alt=""><figcaption><p>Oquirá Wall Grab and jump - Animation By Rafael Ramos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/OquiraWallGrab.gif" alt=""><figcaption><p>Oquirá Wall Grab and jump - Animation By Rafael Ramos</p></figcaption></figure>
 
 </div>
 
