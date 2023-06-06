@@ -56,11 +56,11 @@ Por conta de sua cultura e ideais, possui apreço por toda vida, propositalmente
 
 <div>
 
-<figure><img src="../.gitbook/assets/Oquira_Interaction.gif" alt=""><figcaption><p>Oquirá Interaction - Animation By Rafael Ramos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/OquiraInteracao.gif" alt=""><figcaption><p>Oquirá Interaction - Animation By Rafael Ramos</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Oquira-Hit.gif" alt=""><figcaption><p>Oquirá Hit - Animation By Rafael Ramos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/OquiraDano.gif" alt=""><figcaption><p>Oquirá Hit - Animation By Rafael Ramos</p></figcaption></figure>
 
 </div>
 

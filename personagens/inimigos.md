@@ -23,11 +23,11 @@ Os inimigos podem ser Artificiais, Naturais Místicos ou não Místicos. Máquin
 
 <div>
 
-<figure><img src="../.gitbook/assets/Praga---Idle.gif" alt=""><figcaption><p>Caubi Idle  - Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CaubiIdle.gif" alt=""><figcaption><p>Caubi Idle  - Animation By Manuella Garcia</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Praga---Andando.gif" alt=""><figcaption><p>Caubi Attack  - Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CaubiWalk.gif" alt=""><figcaption><p>Caubi Attack  - Animation By Manuella Garcia</p></figcaption></figure>
 
 </div>
 
@@ -43,45 +43,45 @@ Os inimigos podem ser Artificiais, Naturais Místicos ou não Místicos. Máquin
 
 <div>
 
-<figure><img src="../.gitbook/assets/Itacira_Idle.gif" alt=""><figcaption><p>Itacira Idle - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ItaciraIdle.gif" alt=""><figcaption><p>Itacira Idle - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Itacira_Walk.gif" alt=""><figcaption><p>Itacira Walking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ItaciraWalk.gif" alt=""><figcaption><p>Itacira Walking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Itacira_Attack.gif" alt=""><figcaption><p>Itacira Attacking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ItaciraAtaque.gif" alt=""><figcaption><p>Itacira Attacking - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../.gitbook/assets/Salsa-Idle (1).gif" alt=""><figcaption><p>Capotira Idle - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CapotiraIdle.gif" alt=""><figcaption><p>Capotira Idle - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Salsa-ataque (1).gif" alt=""><figcaption><p>Capotira Attack - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CapotiraAtaque.gif" alt=""><figcaption><p>Capotira Attack - Art &#x26; Animation By Manuella Garcia</p></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../.gitbook/assets/CogumeloWalk (1).gif" alt=""><figcaption><p>Ipojuca Walk - Animation By Rafael Ramos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/IpojucaIdle.gif" alt=""><figcaption><p>Ipojuca Walk - Animation By Rafael Ramos</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/CogumeloAtack2 (1).gif" alt=""><figcaption><p>Ipojuca Attack - Animation By Rafael Ramos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/IpojucaAtack.gif" alt=""><figcaption><p>Ipojuca Attack - Animation By Rafael Ramos</p></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../.gitbook/assets/Walk.gif" alt=""><figcaption><p>Taciatã Walk - Animation By Rafael Ramos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Walk (2).gif" alt=""><figcaption><p>Taciatã Walk - Animation By Rafael Ramos</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Inimigo-Magro-Ataque.gif" alt=""><figcaption><p>Taciatã Attack - Animation By Rafael Ramos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/TaciataAtaque.gif" alt=""><figcaption><p>Taciatã Attack - Animation By Rafael Ramos</p></figcaption></figure>
 
 </div>
 
