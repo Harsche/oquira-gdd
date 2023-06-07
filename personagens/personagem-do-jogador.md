@@ -30,9 +30,11 @@ Por conta de sua cultura e ideais, possui apreço por toda vida, propositalmente
 
 ## Outras Animações do Personagem
 
+<figure><img src="../.gitbook/assets/OquiraIdle.gif" alt=""><figcaption><p>Oquirá Idle - Animation By Manuella Garcia</p></figcaption></figure>
+
 <div>
 
-<figure><img src="../.gitbook/assets/OquiraRun.gif" alt=""><figcaption><p>Oquirá Walk - Animation By Rafael Ramos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/OquiraRunParaGif.gif" alt=""><figcaption><p>Oquirá Walk - Animation By Rafael Ramos</p></figcaption></figure>
 
  
 
