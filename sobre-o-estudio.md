@@ -1,6 +1,6 @@
 ---
 description: Informações da equipe
-cover: .gitbook/assets/Oquirá - Título Capa (7).jpg
+cover: .gitbook/assets/Oquirá - Título Capa V2 (3).jpg
 coverY: 0
 ---
 
